@@ -1,0 +1,20 @@
+{
+  "name": "z2m-device-convert",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "collection of used z2m device converters",
+  "author": "Branko Wilhelm <bw@z-index.net> (https://z-index.net)",
+  "dependencies": {
+    "zigbee-herdsman-converters": "^15.85.0"
+  },
+  "engines": {
+    "node": ">= 20"
+  },
+  "bugs": {
+    "url": "https://github.com/b2un0/z2m-device-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b2un0/z2m-device-converter.git"
+  }
+}
