@@ -1,0 +1,28 @@
+{
+  "2": "Mode",
+  "16": "Temp_set",
+  "24": "Current_temp",
+  "30": "Child lock",
+  "34": "Battery capacity",
+  "45": "Fault alarm",
+  "101": "舒适温度", // comfortable temperature
+  "102": "节能温度", // Energy Saving Temperature
+  "103": "Holiday mode settings",
+  "104": "漂移温度（校准）", // Drift temperature (calibration)
+  "105": "自动温度设置", // Automatic temperature setting
+  "106": "快速升温", // rapid warming
+  "107": "窗户状态", // Window Status
+  "108": "休眠", // hibernation
+  "109": "周一编程", // Monday Programming
+  "110": "周二编程", // Tuesday Programming
+  "111": "周三编程", // Wednesday Programming
+  "112": "周四编程", // Thursday Programming
+  "113": "周五编程", // Friday Programming
+  "114": "周六编程", // Saturday Programming
+  "115": "周日编程", // Sunday Programming
+  "116": "开窗温度", // opening temperature
+  "117": "开窗时间", // window opening time
+  "118": "快速升温倒计时", // Countdown to Rapid Warming
+  "119": "temperature control ",
+  "120": "刷新" // refresh (computer window)
+}
