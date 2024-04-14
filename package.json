@@ -5,7 +5,7 @@
   "description": "collection of used z2m device converters",
   "author": "Branko Wilhelm <bw@z-index.net> (https://z-index.net)",
   "dependencies": {
-    "zigbee-herdsman-converters": "^15.85.0"
+    "zigbee-herdsman-converters": "^15.132.0"
   },
   "engines": {
     "node": ">= 20"

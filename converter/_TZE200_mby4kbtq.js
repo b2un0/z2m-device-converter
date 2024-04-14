@@ -7,14 +7,16 @@ const definition = {
     fingerprint: [
         {
             modelID: 'TS0601',
-            manufacturerName: '_TZE200_mby4kbtq'
-        }
+            manufacturerName: '_TZE200_mby4kbtq',
+        },
     ],
-    model: 'TS0601_gas_sensor_3',
-    vendor: 'TuYa',
+    zigbeeModel: ['TS0601'],
+    model: 'TS0601',
+    vendor: '_TZE200_mby4kbtq',
     description: 'Gas sensor',
     fromZigbee: [tuya.fz.datapoints],
     toZigbee: [tuya.tz.datapoints],
+    onEvent: tuya.onEventSetTime,
     configure: tuya.configureMagicPacket,
     exposes: [
         e.gas(),
